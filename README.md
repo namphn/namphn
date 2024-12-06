@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/hoang-nam-pham-639850187" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="namphn" height="30" width="40" /></a>
-  <a href="https://fb.com/adam pithen wala](https://www.facebook.com/hoangnam.pham.5876" target="blank"><img align="center"
+  <a href="https://www.facebook.com/hoangnam.pham.5876" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="namphn" height="30" width="40" /></a>
   <a href="https://www.instagram.com/nam.phamhoang/" target="blank"><img align="center"
