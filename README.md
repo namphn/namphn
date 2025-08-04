@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NamPhn</h1>
-<h3 align="center">Brse, Software engineer🌟.</h3>
+<h3 align="center">Backend engineer🌟.</h3>
 
 <br>
 
