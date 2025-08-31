@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I am currently working as a Bridge System Engineer (BrSE) and Software Engineer for an IT company in Tokyo.
+- 🌱 I am currently working as a Bridge System Engineer (BrSE) and Senior Backend Engineer for an IT company in Tokyo.
 
 - 📫 How to reach me **hoangnamuet.vnu@gmail.com**
 
